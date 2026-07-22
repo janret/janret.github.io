@@ -14,9 +14,10 @@ window.PORTFOLIO_PROJECTS = [
     tag: "Bachelor's thesis",
     title: "Longitudinal MRI tissue segmentation",
     description:
-      "Deep-learning pipelines that add subject-specific longitudinal context to U-Net brain tissue segmentation (GM / WM / CSF), aiming for more temporally consistent volumes in Alzheimer's research on MIRIAD, and compared with SAMSeg-Long and SynthSeg+.",
+      "Deep-learning pipelines that add subject-specific longitudinal context to U-Net brain tissue segmentation (GM / WM / CSF), aiming for more temporally consistent volumes in Alzheimer's research on the MIRIAD dataset, and compared with SAMSeg-Long and SynthSeg+.",
     links: [
       { label: "GitHub", href: "https://github.com/janret/TFG" },
+      { label: "Thesis", href: "https://dugi-doc.udg.edu/handle/10256/28870" },
       { label: "Thesis PDF", href: "https://raw.githubusercontent.com/janret/TFG/main/TFG.pdf" },
     ],
   },
