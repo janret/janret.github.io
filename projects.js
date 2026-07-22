@@ -12,11 +12,12 @@ window.PORTFOLIO_PROJECTS = [
   },
   {
     tag: "Bachelor's thesis",
-    title: "TFG",
+    title: "Longitudinal MRI tissue segmentation",
     description:
-      "Undergraduate final project (TFG) — see repository for code and documentation.",
+      "Deep U-Net variants with subject-specific longitudinal context for brain tissue segmentation in Alzheimer's research (MIRIAD), compared with SAMSeg-Long and SynthSeg+.",
     links: [
       { label: "GitHub", href: "https://github.com/janret/TFG" },
+      { label: "Thesis PDF", href: "https://github.com/janret/TFG/blob/main/TFG.pdf" },
     ],
   },
 ];
