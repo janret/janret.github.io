@@ -18,7 +18,6 @@ window.PORTFOLIO_PROJECTS = [
     links: [
       { label: "GitHub", href: "https://github.com/janret/TFG" },
       { label: "Thesis", href: "https://dugi-doc.udg.edu/handle/10256/28870" },
-      { label: "Thesis PDF", href: "https://raw.githubusercontent.com/janret/TFG/main/TFG.pdf" },
     ],
   },
 ];
