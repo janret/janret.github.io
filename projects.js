@@ -50,6 +50,27 @@ window.PORTFOLIO_PROJECTS = [
     ],
   },
   {
+    tag: { en: "Course project", es: "Proyecto de asignatura" },
+    title: {
+      en: "Poroviscoelastic modelling of brain oedema",
+      es: "Modelización poroviscoelástica del edema cerebral",
+    },
+    description: {
+      en: "Multilayer biphasic FEBio model of oedema-driven brain deformation over 72 hours (cortex, basal ganglia, corona radiata, corpus callosum), for a UPF Computational Therapies brain-modelling workshop on neurosurgical brain shift.",
+      es: "Modelo bifásico multicapa en FEBio de la deformación cerebral inducida por edema a lo largo de 72 horas (córtex, ganglios basales, corona radiata y cuerpo calloso), para un workshop de modelización cerebral en Computational Therapies (UPF) sobre el desplazamiento cerebral quirúrgico.",
+    },
+    links: [
+      {
+        label: { en: "Report", es: "Informe" },
+        href: "https://github.com/janret/janret.github.io/blob/main/assets/brain-oedema/Report.pdf",
+      },
+      {
+        label: { en: "FEBio model", es: "Modelo FEBio" },
+        href: "https://github.com/janret/janret.github.io/blob/main/assets/brain-oedema/Model.feb",
+      },
+    ],
+  },
+  {
     tag: { en: "Bachelor's thesis", es: "Trabajo de fin de grado" },
     title: {
       en: "Longitudinal MRI tissue segmentation",
