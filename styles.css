@@ -128,19 +128,6 @@ body {
   font-weight: 500;
 }
 
-.section-note {
-  margin: 0.5rem 0 1.75rem;
-  color: var(--ink-soft);
-  font-size: 0.95rem;
-}
-
-.section-note code {
-  font-size: 0.85em;
-  padding: 0.1em 0.35em;
-  border-radius: 0.25rem;
-  background: rgba(14, 28, 26, 0.06);
-}
-
 .project-list {
   display: grid;
   gap: 1rem;
