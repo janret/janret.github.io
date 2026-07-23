@@ -6,7 +6,7 @@ window.PORTFOLIO_I18N = {
       "Selected projects by Jan Reglà Torrents — computational biomedical engineering, modelling, and software.",
     eyebrow: "Computational biomedical engineering",
     lede:
-      "Selected work on physiological modelling, data-driven personalisation, and scientific software.",
+      "Selected projects in mechanistic modelling, data-driven models, and statistical analysis of physiological and biomechanical data.",
     viewProjects: "View projects",
     projectsHeading: "Projects",
     langLabel: "Language",
@@ -18,7 +18,7 @@ window.PORTFOLIO_I18N = {
       "Proyectos seleccionados de Jan Reglà Torrents — ingeniería biomédica computacional, modelización y software.",
     eyebrow: "Ingeniería biomédica computacional",
     lede:
-      "Selección de trabajos sobre modelización fisiológica, personalización basada en datos y software científico.",
+      "Selección de proyectos en modelización mecanicista, modelos basados en datos y análisis estadístico de datos fisiológicos y biomecánicos.",
     viewProjects: "Ver proyectos",
     projectsHeading: "Proyectos",
     langLabel: "Idioma",
