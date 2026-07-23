@@ -73,8 +73,8 @@ window.PORTFOLIO_PROJECTS = [
   {
     tag: { en: "Course project", es: "Proyecto de asignatura" },
     title: {
-      en: "Biomechanics of gait — statistical analysis of total knee replacement patients",
-      es: "Biomecánica de la marcha — análisis estadístico de pacientes con prótesis total de rodilla",
+      en: "Biomechanics of gait: statistical time-series analysis of total knee replacement patients",
+      es: "Biomecánica de la marcha: análisis estadístico de series temporales en pacientes con prótesis total de rodilla",
     },
     description: {
       en: "Statistical and time-series analysis of human walking, comparing conservatively managed vs total knee replacement–planned patients. Methods from univariate statistics to multivariate and continuous-waveform analysis, implemented from scratch in MATLAB and validated against standard toolboxes: ANOVA / ANCOVA, Hotelling's T², two-way MANOVA, mixed ANOVA, SPM1D on gait-cycle waveforms, and Hilbert-transform phase synchronization.",
